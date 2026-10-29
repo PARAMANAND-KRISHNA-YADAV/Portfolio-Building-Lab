@@ -1,0 +1,2 @@
+1|today|write leetcode
+1|25-10-2026|do hackerrank
