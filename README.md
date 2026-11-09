@@ -12,3 +12,9 @@ programming skills.
 ## Projects
 
 I built a rental-system web app connected to a Supabase backend, with a properties module for managing listings.
+
+
+
+- **Rental System:** a web app with a properties module, backed by Supabase.
+- **C/C++/Java/Python programs:** stack and to-do implementations from the lab.
+- **GitHub Pages:** a live deployment of this repository.
